@@ -5,10 +5,11 @@ A deep learning project that automatically generates colorized anime characters 
 ### Demo
 This section displays some outputs of the program. Each example contains an input image (left), a ground truth image (middle), and a generated image (right).
 
+<img src="https://github.com/m4556/gan_paper/blob/main/gan.png" width="600" >
 
 
 ### Anime dataset
-The dataset can be downloaded from Kaggle: [link.](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) and exctact to data folder.
+The dataset can be downloaded from [Kaggle](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) and exctract to data folder. Run train.py
 
 
 ### References
