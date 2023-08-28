@@ -1,0 +1,6 @@
+torch
+albumentations
+numpy
+PIL
+tqdm
+torchvision

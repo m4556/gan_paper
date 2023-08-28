@@ -8,8 +8,12 @@ This section displays some outputs of the program. Each example contains an inpu
 <img src="https://github.com/m4556/gan_paper/blob/main/gan.png" width="600" >
 
 
-### Anime dataset
-The dataset can be downloaded from [Kaggle](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair) and exctract to data folder. Run train.py
+### Setup
+1. Clone the Repository: git clone https://github.com/m4556/gan_paper ; cd gan_paper
+2. Create virtual environment: python3 -m venv venv ; source venv/bin/activate
+3. The dataset can be downloaded from [Kaggle](https://www.kaggle.com/ktaebum/anime-sketch-colorization-pair). Extract it to data folder.
+4. Install Dependencies: pip install -r requirements.txt
+5. Run code to start training: python train.py
 
 
 ### References
